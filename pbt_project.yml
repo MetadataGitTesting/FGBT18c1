@@ -1,0 +1,58 @@
+name: shaunna.mante
+description: toolset
+version: 6.15.844
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: shaunnamante
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-09-19 23:28:57'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-09-19 23:28:57'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-09-19T23:28:57.937036Z'
+  name: plibMaven
+  version: 8.14.0-SNAPSHOT
+  id: '1369061544'
+  createdAt: '2025-09-19T23:28:57.937036Z'
+  type: plibMaven
+projectDependencies:
+  '176':
+    projectUID: 176
+    projectName: imelda.stiedemann
+    repositoryPath: gitUri=http://gitserver:3000/dev_ujspQqYN_team_370/dev_ujspQqYN_project_176.git&subPath=
+    version: imelda.stiedemann/0.73.507
+    isDefault: false
+    author: null
+    createdAt: '2025-09-19 23:28:54'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
